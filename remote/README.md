@@ -1,4 +1,4 @@
-## Contributing OKAYYY
+## Contributing NO NEED
 
 There are many ways in which you can participate in this project, for example:
 
